@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Owolabi</h1>
-<h3 align="center">A passionate Application Development</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcmhee&label=Profile%20views&color=0e75b6&style=flat" alt="mcmhee" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mc_mhee" target="blank"><img src="https://img.shields.io/twitter/follow/mc_mhee?logo=twitter&style=for-the-badge" alt="mc_mhee" /></a> </p>
 
-- 🔭 I’m currently working on **Audio Player**
+- 🔭 I’m currently working on **Web3 applications**
 
-- 🌱 I’m currently learning **java Script**
+- 🌱 I’m currently learning **Three.js**
 
-- 👯 I’m looking to collaborate on **Services App**
+- 👯 I’m looking to collaborate on **Impactful Applications**
 
-- 🤝 I’m looking for help with **Services App**
+- 🤝 I’m looking for help with **Anything**
 
 - 📫 How to reach me **emmanuelowolabiadebayo@gmail.com**
 
